@@ -1,0 +1,15 @@
+{
+    "name": "hp/chat",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Chat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdo0302",
+            "email": "abdelljabarhamri06@gmail.com"
+        }
+    ],
+    "require": {}
+}
